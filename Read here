@@ -1,0 +1,12 @@
+Employee Appraisal form 
+Following were the back-end frameworks we employed for fulfillment of our tasks.
+a)express:4.13.3,
+b)mongodb: 3.5.9,
+c)mongoose: 4.1.3,
+d)node-restful: 0.2.2
+Fowwing were the front-end frameworks:
+a)HTML5
+b)CSS
+c)Javascript
+d)Angular
+All the front-end specific files are present in the directory named Public.The remaining directories hold backend-specific data.
